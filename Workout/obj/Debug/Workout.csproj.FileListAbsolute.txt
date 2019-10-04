@@ -1,0 +1,6 @@
+C:\Users\Adicipta\source\repos\Workout\Workout\bin\Debug\Workout.exe.config
+C:\Users\Adicipta\source\repos\Workout\Workout\bin\Debug\Workout.exe
+C:\Users\Adicipta\source\repos\Workout\Workout\bin\Debug\Workout.pdb
+C:\Users\Adicipta\source\repos\Workout\Workout\obj\Debug\Workout.csprojAssemblyReference.cache
+C:\Users\Adicipta\source\repos\Workout\Workout\obj\Debug\Workout.exe
+C:\Users\Adicipta\source\repos\Workout\Workout\obj\Debug\Workout.pdb
