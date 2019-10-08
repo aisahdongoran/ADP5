@@ -1,0 +1,6 @@
+C:\Users\Adicipta\source\repos\Segitiga\Segitiga\bin\Debug\Segitiga.exe.config
+C:\Users\Adicipta\source\repos\Segitiga\Segitiga\bin\Debug\Segitiga.exe
+C:\Users\Adicipta\source\repos\Segitiga\Segitiga\bin\Debug\Segitiga.pdb
+C:\Users\Adicipta\source\repos\Segitiga\Segitiga\obj\Debug\Segitiga.csprojAssemblyReference.cache
+C:\Users\Adicipta\source\repos\Segitiga\Segitiga\obj\Debug\Segitiga.exe
+C:\Users\Adicipta\source\repos\Segitiga\Segitiga\obj\Debug\Segitiga.pdb
