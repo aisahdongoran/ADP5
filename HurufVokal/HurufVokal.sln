@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurufVokal", "HurufVokal\HurufVokal.csproj", "{969B2056-19FF-4AA9-B717-5F46B31A8A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969B2056-19FF-4AA9-B717-5F46B31A8A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969B2056-19FF-4AA9-B717-5F46B31A8A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969B2056-19FF-4AA9-B717-5F46B31A8A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969B2056-19FF-4AA9-B717-5F46B31A8A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D73810E8-DFAF-44C4-A31A-C41C2DD56679}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Adicipta\source\repos\HurufVokal\HurufVokal\bin\Debug\HurufVokal.exe.config
+C:\Users\Adicipta\source\repos\HurufVokal\HurufVokal\bin\Debug\HurufVokal.exe
+C:\Users\Adicipta\source\repos\HurufVokal\HurufVokal\bin\Debug\HurufVokal.pdb
+C:\Users\Adicipta\source\repos\HurufVokal\HurufVokal\obj\Debug\HurufVokal.csprojAssemblyReference.cache
+C:\Users\Adicipta\source\repos\HurufVokal\HurufVokal\obj\Debug\HurufVokal.exe
+C:\Users\Adicipta\source\repos\HurufVokal\HurufVokal\obj\Debug\HurufVokal.pdb
