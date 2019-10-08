@@ -1,0 +1,6 @@
+C:\Users\Adicipta\source\repos\Constructor Example\Constructor Example\bin\Debug\Constructor Example.exe.config
+C:\Users\Adicipta\source\repos\Constructor Example\Constructor Example\bin\Debug\Constructor Example.exe
+C:\Users\Adicipta\source\repos\Constructor Example\Constructor Example\bin\Debug\Constructor Example.pdb
+C:\Users\Adicipta\source\repos\Constructor Example\Constructor Example\obj\Debug\Constructor Example.csprojAssemblyReference.cache
+C:\Users\Adicipta\source\repos\Constructor Example\Constructor Example\obj\Debug\Constructor Example.exe
+C:\Users\Adicipta\source\repos\Constructor Example\Constructor Example\obj\Debug\Constructor Example.pdb
